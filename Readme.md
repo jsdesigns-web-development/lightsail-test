@@ -1,22 +1,50 @@
 # README
 
-- AWS lightsail
-  - setup
-  - route53
+## **AWS lightsail**
+### SETUP
+#### initialization
+#### ssh
+- https://stackoverflow.com/questions/34045375/connect-over-ssh-using-a-pem-file
 
-- nginx setup
-  - initial setup & configuration
-  - non-www to www 301 redirect
-  - load balancing
+#### server config
+- ubuntu initial config
+- install nvm
+- install node & npm nvm
 
-- pm2
-  - setup
+#### route53
 
-- git repository
-  - setup
+<hr>
 
-- node application
-  - setup
+## **nginx**
+### SETUP
+- https://medium.com/@utkarsh_verma/configure-nginx-as-a-web-server-and-reverse-proxy-for-nodejs-application-on-aws-ubuntu-16-04-server-872922e21d38
+- https://www.youtube.com/watch?v=oykl1Ih9pMg
 
-- mongodb database
-  - setup
+### non-www to www 301 redirect
+- https://www.slashroot.in/how-redirect-non-www-www-https-using-nginx
+
+### load balancing
+
+<hr>
+
+## **pm2**
+### SETUP
+- https://app.pm2.io/
+
+<hr>
+
+## **git repository**
+### SETUP
+- https://github.com/settings/tokens
+- https://www.howtoforge.com/tutorial/install-git-and-github-on-ubuntu/
+
+<hr>
+
+## **node application**
+### SETUP
+- https://expressjs.com/en/starter/generator.html
+
+<hr>
+
+## **mongodb database**
+### SETUP
